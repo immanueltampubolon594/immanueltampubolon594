@@ -1,58 +1,118 @@
-# Hi, I'm Immanuel Tampubolon
+<div align="center">
 
-I am a D3 Computer Technology student at Institut Teknologi Del with a strong interest in Web Development, Artificial Intelligence, and Software Engineering. I enjoy building web applications, developing AI-powered solutions, and continuously improving my technical skills through personal and academic projects.
+# `immanuel.ai`
 
-## Skills
+</div>
 
-### Programming Languages
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- PHP
-- Python
-- Java
-- Golang
+```
+&@@@@@@@@@@@@@@@@@@@@@@@@@&&%##((((####(#((#####%%%##%&&@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@&%##(((((#((#############((#((##((#######&&%@&&%%##%%&&@&&&@@@@@@@
+@@@@@@@@@@@@@@&&%((((((((################################(((###################%#%&
+@@@@@@@@@@@%(((((((((((((###((###############################(((###############((##
+@@@@@@%%%%(((((((((((((###################,............./*##########################
+@%#(((((((((((((((((((((########(((###,.....................(#######################
+(((((((((((((((((((((((((((###########(.  .                .....####################
+(((((#(((((((#((((((((((((((((########(    .................    *((######(##########
+(#(#(#####((((((((((((((((((((((##(####   .,***********,,,...   (#####((##(((#######
+((######((((((#(((((((((((((((((##((#(/ ./((/////////********.  ####################
+((((##########(((((((((((((#(##(((((((*.(((**,,,,***,,..,,*(((. /(#####(###(((######
+(((((((#(#((((##((((((((((((((((((((((#,##(*,.,,*///*,,..,*/##,.#((#(((##(#((#######
+((((((((((((((####((((###((((######((#((###(((((((((/////((###//*#(######((((#######
+((((((((((((((((((######(((((((#((##*/(((((//(,//,(///((//((/*//####(((((###(#######
+//((((((((((((((((((((((((((((((######(#((((((/**//((///(((((/(#####################
+/////////(/(((((((((((((((((((((((######(#((((((/**//((///(((((/(###################
+(/(((((((((((((##((((((((###(##((((((#(###((/*,,,,,,..,*///(((#####################
+((((((((((((((((((((((((((((((((#((((((((((///**,,,,,,,***/(#####((#################
+((((((((((((((((((((((((((((((((((#(((((((#//********,,,,,/(#######((###(##(########
+((/((((((((((((((((((((((((((///(////((((((//***,,...,,,,*/(#((#####((((((((((((((((
+((((((((####((//(((((((/(//(((((((((((///(((////,*,,,,,**//(*    *(((((((((/(#((((((
+(#%%#((((((((((((((((((((//////*/////((((((,(////********///((#*,,,/((((((((###((#(#
+((((((((/(/((((((((((((((///////(///(//(*. *(////********/////......,.,,*/((#(#####(
+/(((((((((((((////(/((((((((((/////////.. .((////////////((, .......,..........,./##
+/(((((((/((((//((((((((((((((((((##### .  */((((((((((((((      ............ ....,.
+/((((((((((//(((/((((((((((((((((((*,,.     /####((#(((((.          ....... . .....
+/((/*///((((////**(((((((((((((*,,....      ..**/(#%/,*..      ..........  .    ...
+/((/***///(/***/////(((((((((*...........     .(#####..     ............          
+(((/*****/(//*/**/((((((/**/................    ,##,.      ............ .         
+////******/////**/(((((((//,. .............      .       .....            .       
+/////********////((((///(//..  .................        . .                        
+///*/**/////(////(//((((//,    . ..........   .  . .    . .                        
+/(////*,*///((((((((((((((.      .............          .                          
+*/****/*(/((((/((((((*/(((.       ..... .. .                                       
+*/**,***((((/(/((((((///((.        .  ...  .                                       
+***/****/////(((((((((((//       .    ...     .                                    
+***/**//(//////*(/////((((       .    ..     .  .           .                      
+,***///*///((((///////(/(,        .    .     ..                 ..                 
+*,*///////**,,*/*////((((.        .    .    ..          .                          
+,,**////((///**//*/(((((.              .   ..             ...                      
+,********/*/*/*//***(((/               .   ..            ..    ...                 
+,**,****,**,**///*,,/(/.               .  ..                   ..       ...        
+,*********/*,,,***/*///*                 ..                  ...     .....       ..
+,,,,,*******/*****,**//* ...           ...            ..      .     .....          
+,,,,,,,*,*********,**////   . .       ...            ....  ...     ....     ......
+.,,,,,,**,,,********((#**...       ....         .. ..... ....   ....      ....    
+```
 
-### Frameworks & Technologies
-- Laravel
-- Next.js
-- FastAPI
-- Docker
+```
+═══════════════════════════════════════════════════════════════
+  SYSTEM.INFO / PROFILE.LOADED
+═══════════════════════════════════════════════════════════════
 
-### Databases
-- MySQL
-- PostgreSQL
+  Subject       :  Immanuel Tampubolon
+  Role          :  AI Engineer
+  Affiliation   :  Institut Teknologi Del
+  Base          :  North Sumatra, Indonesia
+  Status        :  Building / Shipping / Open-to-Work
 
-### Tools
-- Git & GitHub
-- Visual Studio Code
-- Postman
-- XAMPP
+───────────────────────────────────────────────────────────────
+  RESEARCH.MODE
+───────────────────────────────────────────────────────────────
 
-## Featured Projects
+  Primary       :  Applied AI Engineering
+  Direction     :  Production-grade ML systems
+  Themes        :  Computer Vision · RAG · Agentic Systems
 
-### CyberGuard AI
-AI-powered Retrieval-Augmented Generation (RAG) chatbot designed to improve cybersecurity awareness and provide educational assistance on cyber threats.
+───────────────────────────────────────────────────────────────
+  BUILD.LOG
+───────────────────────────────────────────────────────────────
 
-### Tanah Batak
-A cultural website that introduces the history, traditions, tourism, and cultural heritage of the Batak community.
+  OmniPresence  :  Desk-occupancy analytics from CCTV video
+                   → YOLOv8 + ByteTrack, workplace analytics
+  CyberGuard    :  RAG-powered cybersecurity assistant
+                   → LangChain + Cohere + RAGAS evaluation
+  Sentinel      :  Autonomous AI coding agent
+                   → Code analysis + self-correction loop
+  DevPulse      :  AI code reviewer for GitHub pull requests
+  VoiceGuard    :  Real vs AI-generated voice detection
+                   → XLS-R + AASIST fine-tuning
 
-### Library Management System
-A web-based library management system built with Laravel and Blade, featuring book management, member management, borrowing and returning transactions, and an administrative dashboard.
+───────────────────────────────────────────────────────────────
+  STACK
+───────────────────────────────────────────────────────────────
 
-### Coffee Website 
-Responsive coffee shop website built with HTML, CSS, and JavaScript.
+  ML / AI       :  Python · PyTorch · YOLOv8 · LangChain
+                   Cohere · RAGAS · Langfuse
+  Backend       :  FastAPI · Laravel · Node.js · Go
+  Frontend      :  Next.js · React · TypeScript · Tailwind
+  Infra         :  Docker · Nginx
 
-### Personal Portfolio
-A personal portfolio website showcasing my projects, technical skills, and learning journey in software development.
+───────────────────────────────────────────────────────────────
+  GRID.LINKS
+───────────────────────────────────────────────────────────────
 
-## Contact
+  Github        :  @immanueltampubolon594
+  Portfolio     :  portfolio-gamma-blush-68.vercel.app
+  LinkedIn      :  immanuel-tampubolon-4a950840b
 
-- LinkedIn: https://www.linkedin.com/in/immanuel-tampubolon-124849415/
-- Email: immanueltampubolon594@gmail.com
-- instagram: immanuel tampubolon
+═══════════════════════════════════════════════════════════════
+  @signal > HIRING-READY · AI · VISION · AGENTS
+═══════════════════════════════════════════════════════════════
+```
 
----
+<div align="center">
 
-Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immanueltampubolon594)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gamma-blush-68.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/immanuel-tampubolon-4a950840b)
+
+</div>
