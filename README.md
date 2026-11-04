@@ -133,19 +133,14 @@ I'm an **AI Engineer Intern** based in North Sumatra, Indonesia, currently pursu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immanueltampubolon594&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=immanueltampubolon594&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanueltampubolon594&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immanueltampubolon594&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=immanueltampubolon594&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanueltampubolon594&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immanueltampubolon594&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
----
-
-<div align="center">
-  <sub>🚀 <em>Building AI that survives production. Open to internships — onsite, remote, or abroad.</em></sub>
-</div>
