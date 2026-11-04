@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="./Immanuel.jpeg" alt="Immanuel Tampubolon" width="100%" style="border: 2px solid #00d4ff;"/>
+      <img src="./Immanuel.jpeg" alt="Immanuel Tampubolon" width="100%"/>
     </td>
     <td width="60%">
-      <img src="./banner-info.svg" alt="Immanuel Tampubolon — AI Engineer"/>
+      <img src="./banner.svg" alt="Immanuel Tampubolon — AI Engineer" width="100%"/>
     </td>
   </tr>
 </table>
